@@ -2,7 +2,8 @@
 
 # dependencies
 
-Notes_App_Project/node_modules/
+# dependencies
+/node_modules
 frontend/node_modules/
 /.pnp
 .pnp.js
